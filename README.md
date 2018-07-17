@@ -18,3 +18,6 @@ git pull : 원격 저장소의 진행상황 가져옴
 git branch 브랜치명 : 브랜치 생성
 
 git checkout 브랜치명 : 브랜치 전환
+
+
+추가 예정입니다...
