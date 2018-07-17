@@ -7,8 +7,7 @@ git commit -m "메시지" : 로컬 저장소에 수정된 파일 추가
 git clone <github 주소> : 로컬 저장소에 진행중인 프로젝트 없을 때 원격 저장소 연
 결
 
-git remote add origin <github 주소> : 로컬 저장소에 진행중인 프로젝트 있을 때 원
-격 저장소 연결
+git remote add origin <github 주소> : 로컬 저장소에 진행중인 프로젝트 있을 때 원격 저장소 연결
 
 git push origin 브랜치명 : 원격 저장소의 특정 브랜치에 파일 추가
 
