@@ -12,9 +12,9 @@ git remote add origin <github 주소> : 로컬 저장소에 진행중인 프로�
 
 git push origin 브랜치명 : 원격 저장소의 특정 브랜치에 파일 추가
 
-git pull : 원격 저장소의 진행상황 가져옴
+git pull : 원격 저장소의 진행상황 가져온다
 
-git branch 브랜치명 : 브랜치 생성
+git branch 브랜치명 : 브랜치 생성하는것
 
 git checkout 브랜치명 : 브랜치 전환
 
