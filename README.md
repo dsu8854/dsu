@@ -21,5 +21,4 @@ git checkout 브랜치명 : 브랜치 전환
 git merge --no-ff 브랜치명 : 브랜치 이력 남긴채로 병합
 
 git pull <pull-request 주소> patch-1 : 리모트 브랜치 병합 (따로 풀 이런거 안해도 됨)
-
-추가 예정입니다아ㅏ아아아아아아...
+수정수정수정수저어저어저
