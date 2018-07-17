@@ -16,7 +16,7 @@ git pull : 원격 저장소의 진행상황 가져온다
 
 git branch 브랜치명 : 브랜치 생성하는것
 
-git checkout 브랜치명 : 브랜치 전환
+git checkout 브랜치명 : 브랜치 전환하기
 
 git merge --no-ff 브랜치명 : 브랜치 이력 남긴채로 병합
 
