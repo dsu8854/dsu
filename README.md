@@ -1,4 +1,4 @@
-/////////aaaaaaaaaaaaaaaa/////////////////aaaaaaaaaaa//////////aaaaaaa
+aa2 aa2 aa2 aa2 aa2 aa2 aa2
 
 <git 명령어 모음>
 
