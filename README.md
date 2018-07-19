@@ -1,3 +1,5 @@
+/////////aaaaaaaaaaaaaaaa/////////////////aaaaaaaaaaa//////////aaaaaaa
+
 <git 명령어 모음>
 
 git init : 로컬 저장소 생성 (무조건 먼저 해야됨)
